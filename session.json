@@ -1,0 +1,24 @@
+{
+  "sessions": [
+    {
+      "id": "7649891508:7649891508",
+      "data": {
+        "waitingForPrivateKey": true,
+        "introShown": true,
+        "hasOpenedBefore": true
+      }
+    },
+    {
+      "id": "599488206:599488206",
+      "data": {
+        "waitingForPrivateKey": true
+      }
+    },
+    {
+      "id": "7354246657:7354246657",
+      "data": {
+        "waitingForPrivateKey": true
+      }
+    }
+  ]
+}
